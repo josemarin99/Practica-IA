@@ -1,0 +1,1 @@
+En ambos documentos se contiene la misma información, ninguno de ellos se carga en la vista previa en github pero al descargar el documento no hay ningún problema con el archivo y se puede ejecutar perfectamente en jupyter notebook.
